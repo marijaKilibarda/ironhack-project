@@ -9,9 +9,9 @@ The primary objective is to uncover key factors influencing user engagement and 
 1. CLEANING
 The dataset appeared clean and well-structured for further analysis. The data entries without relevant funding amounts were excluded from the analysis. 
 2. TOOLS
-Data processing was conducted using software tools such as (`Python`) for data cleaning and transformation.
+Data processing was conducted using software tools such as `Python` for data cleaning and transformation.
 3. VISUALISATIONS
-Charts were created using (`Pandas`) lib to illustrate trends by demography and OS.
+Charts were created using `Pandas` lib to illustrate trends by demography and OS.
 4. SOURCE
 - _DataSet 1_ - ”Mobile Device Usage and User Behavior DS” - https://shorturl.at/nMVe0
 - _DataSet 2_ - “Dark Side Of Social Media” https://shorturl.at/ibZU6 
